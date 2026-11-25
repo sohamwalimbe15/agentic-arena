@@ -1,0 +1,182 @@
+{
+ "L0/test": {
+  "direct": {
+   "k": 10,
+   "n": 15,
+   "attacks": 15,
+   "ever": 10,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 10,
+   "n": 15,
+   "attacks": 15,
+   "ever": 10,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L0/train": {
+  "direct": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L1/test": {
+  "direct": {
+   "k": 11,
+   "n": 15,
+   "attacks": 15,
+   "ever": 11,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 8,
+   "n": 15,
+   "attacks": 15,
+   "ever": 8,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L1/train": {
+  "direct": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L2/test": {
+  "direct": {
+   "k": 9,
+   "n": 15,
+   "attacks": 15,
+   "ever": 9,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 7,
+   "n": 15,
+   "attacks": 15,
+   "ever": 7,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L2/train": {
+  "direct": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L3/test": {
+  "direct": {
+   "k": 9,
+   "n": 15,
+   "attacks": 15,
+   "ever": 9,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 15,
+   "attacks": 15,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L3/train": {
+  "direct": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L4/test": {
+  "direct": {
+   "k": 9,
+   "n": 15,
+   "attacks": 15,
+   "ever": 9,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 15,
+   "attacks": 15,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ },
+ "L4/train": {
+  "direct": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  },
+  "indirect": {
+   "k": 0,
+   "n": 0,
+   "attacks": 0,
+   "ever": 0,
+   "flaky": 0,
+   "rep_sd": 0.0
+  }
+ }
+}
